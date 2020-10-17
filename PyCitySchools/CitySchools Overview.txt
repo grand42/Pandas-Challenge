@@ -1,0 +1,11 @@
+City Schools Data Observations
+
+1.  Charter schools outperformed district schools.
+	- Top 5 performing schools are charter schools.
+	- Worst 5 performing schools are district schools.
+
+2.  On average, small schools performed better than large schools.
+
+3.  Schools with a higher spending per student had lower percentages of students who passed both math and reading.
+
+4.  Math and reading scores were similar across the grade levels.
